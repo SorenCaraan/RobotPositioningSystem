@@ -69,7 +69,7 @@ class Robot
 	}
 	
 	
-	
+	// Main method to test the robots movement
 	public static void main (String[] args)
 	{
 		Robot robo = new Robot();
