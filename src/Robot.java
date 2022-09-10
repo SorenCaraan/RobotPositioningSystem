@@ -6,7 +6,7 @@ import java.util.Random;
 class Robot
 {
 	private String direction;
-	private int distanceFromTerminus, directCounter, x, y;
+	private int directCounter, x, y;
 	private Point location;
 
 	/*
